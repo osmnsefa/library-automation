@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.exe.config
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.exe
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.pdb
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Form1.resources
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.exe
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.pdb
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.admin_sayfası.resources
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Üye_İşlemleri.resources
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.admin_kitap_sayfası.resources
+C:\Users\Asus\OneDrive\Masaüstü\KOD\C# udemy\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Üye_Sayfası.resources
